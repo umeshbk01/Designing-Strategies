@@ -1,3 +1,4 @@
+package ObserverPattern;
 
 import ObserverPattern.Observable.IphoneObervableImpl;
 import ObserverPattern.Observer.EmailAlertObserver;
