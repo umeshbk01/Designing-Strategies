@@ -10,6 +10,5 @@ public class Main {
         logger.log(LogProcessor.INFO, "info log test");
         logger.log(LogProcessor.DEBUG, "Degug test");
         
-
     }
 }
